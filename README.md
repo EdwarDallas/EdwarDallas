@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdwarDallas
 - 👀 I’m interested in ... Learning to Code
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Not sure yet. I am changing careers and about to begin coding school. 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...  edwardallas@yahoo.com
 
 <!---
